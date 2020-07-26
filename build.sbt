@@ -29,4 +29,3 @@ lazy val docs = project
     git.remoteRepo := "https://github.com/hamudesign/disco.git"
   )
   .enablePlugins(MicrositesPlugin)
-
